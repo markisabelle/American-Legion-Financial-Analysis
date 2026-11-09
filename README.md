@@ -26,9 +26,9 @@ Analyzed 21 fiscal years (2005–2025) of American Legion Department of Michigan
 
 ## Dashboard
 
-Explore the `Findings&Recommendations` worksheet in the Excel workbook for the executive dashboard, trend charts, variance analysis, and recommended actions.
+![American Legion financial performance dashboard](Screenshots/financial_dashboard.png)
 
-<!-- After uploading a screenshot, uncomment: ![Financial dashboard](screenshots/financial_dashboard.png) -->
+Explore the `Findings&Recommendations` worksheet in the [Excel workbook](American_Legion_Finances_MI.xlsx) for the full dashboard, trend charts, variance analysis, and recommended actions.
 
 ## Analysis approach
 
